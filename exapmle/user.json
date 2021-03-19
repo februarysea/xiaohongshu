@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "success": true,
+  "data": {
+    "tags": [
+      {
+        "icon": "http://ci.xiaohongshu.com/icons/user/gender-female-v1.png",
+        "show_arrow": false
+      },
+      {
+        "icon": "http://ci.xiaohongshu.com/icons/user/growth-level-v1.png",
+        "name": "困困薯",
+        "show_arrow": false
+      }
+    ],
+    "imageb": "https://sns-avatar-qc.xhscdn.com/avatar/5af10676d2c8a5434f2d9e64.jpg?imageView2/2/w/540/format/webp",
+    "images": "https://sns-avatar-qc.xhscdn.com/avatar/5af10676d2c8a5434f2d9e64.jpg?imageView2/2/w/360/format/webp",
+    "banner_info": {
+      "image": "http://sns-avatar-qc.xhscdn.com/user_banner/2f5c9d0f-9bc6-30f2-ad24-7149320e910f?imageView2/2/w/540/format/jpg",
+      "bg_color": "919490",
+      "allow_edit": false
+    },
+    "banner_image": "http://s4.xiaohongshu.com/static/huati/6d46171e066c82db069e0978716269b9.jpg",
+    "collected": 6240,
+    "desc": "我们所做的一切，都是关于上海城市美学的补白。",
+    "fans": 2263,
+    "follows": 14,
+    "fstatus": "none",
+    "gender": 1,
+    "level": {
+      "image": "http://s4.xiaohongshu.com/static/throne/property/f4.png",
+      "image_link": "",
+      "level_name": "困困薯",
+      "number": 4
+    },
+    "liked": 5011,
+    "location": "",
+    "location_jump": false,
+    "nboards": 1,
+    "ndiscovery": 172,
+    "atme_notes_num": 0,
+    "collected_notes_num": 2,
+    "collected_tags_num": 0,
+    "collected_poi_num": 0,
+    "collected_product_num": 0,
+    "collected_movie_num": 0,
+    "collected_brand_num": 0,
+    "collected_book_num": 0,
+    "default_collection_tab": "note",
+    "tab_visible": {
+      "note": true,
+      "collect": true,
+      "like": false,
+      "atme": false,
+      "goods": false,
+      "hotel": false
+    },
+    "red_id": "275833157",
+    "nickname": "上海头条",
+    "recommend_info": "",
+    "recommend_info_icon": "",
+    "red_club_info": {
+      "red_club": false,
+      "red_club_level": 0,
+      "red_club_url": "https://www.xiaohongshu.com/store/mc/landing",
+      "redclubscore": 0
+    },
+    "share_link": "https://www.xiaohongshu.com/user/profile/5af10639e8ac2b69814fb90e",
+    "userid": "5af10639e8ac2b69814fb90e",
+    "red_official_verified": false,
+    "red_official_verify_type": 0,
+    "show_red_official_verify_icon": false,
+    "red_official_verify_show_icon": false,
+    "show_goods_list": false,
+    "blocked": false,
+    "mini_program_info": {
+      "user_name": "gh_52be748ce5b7",
+      "path": "pages/secondary/author/index?author_id=5af10639e8ac2b69814fb90e",
+      "title": "@上海头条 在小红书的个人空间，快跟着TA一起种草吧！",
+      "desc": "我们所做的一切，都是关于上海城市美学的补白。",
+      "webpage_url": "https://www.xiaohongshu.com/mobile/profile/index?oid=user.5af10639e8ac2b69814fb90e",
+      "thumb": "https://sns-avatar-qc.xhscdn.com/avatar/5af10676d2c8a5434f2d9e64.jpg?imageView2/2/w/360/format/webp",
+      "banner": "https://sns-avatar-qc.xhscdn.com/avatar/5af10676d2c8a5434f2d9e64.jpg?imageView2/2/w/540/format/webp"
+    },
+    "is_recommend_level_illegal": false,
+    "community_rule_url": "https://www.xiaohongshu.com/user/community-rule",
+    "feedback_account_appeal_url": "xhsdiscover://rn/feedback/account-appeal",
+    "note_num_stat": {
+      "posted": 172,
+      "liked": 5011,
+      "collected": 6240
+    }
+  }
+}
